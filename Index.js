@@ -8,7 +8,7 @@ document.getElementById("demo").innerHTML =
 
 var x, y, z;  // Declare 3 variables
 x = 5;        // Assign the value 5 to x
-y = 6;        // Assign the value 6 to y
+// new hello stuff here
 
 
 document.getElementById("demo").innerHTML =
